@@ -1,6 +1,8 @@
-# Introduction to HTML + CSS
+# HTML, CSS
 
-#### HTML & CSS are about how websites are created, but before that we need to learn and know some **terminologies** in the context of web sites design and development.
+### Introduction to HTML + CSS
+
+##### HTML & CSS are about how websites are created, but before that we need to learn and know some terminologies in the context of web sites design and development.
 
 - Browsers: The software that users use to access websites. 
 
@@ -22,4 +24,4 @@ Some big companies run their own web servers, but it is more common to use the s
 - Screen Readers: programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments. It is also useful to people who are unable to read a screen, such as when they are driving or jogging.
 
 
-
+##### The Structure Of The Web Page:
