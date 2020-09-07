@@ -8,13 +8,13 @@
 
 The ordered list is created with the \<ol> element, and we use it whenever we need a numbered list, to follow the steps one by one or for any other reason.
 
-Ex:
+[Example](ol.PNG)
 
 **2. Unorder Lists**
 
 The unordered list is created with the \<ul> element. and it begins with a bullet point or other characters like circle point or square point. 
 
-Ex:
+[Example](ul.PNG)
 
 **Note:** Each item in the ordered or unordered lists is placed between an opening \<li> tag and a closing \</li> tag. (The li stands for list item.)
 
@@ -28,4 +28,10 @@ Inside the \<dl> element we use pairs of \<dt> and \<dd> elements.
 
 \<dd> is used to contain the definition.
 
-Ex:
+[Example](dl.PNG)
+
+**Nested Lists**
+
+we can put list inside one another.
+
+[Example](nested.PNG)
