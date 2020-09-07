@@ -24,3 +24,4 @@ We will write a summaries of notes almost 15 times, as it explained in the follo
 
 
 [Read01](https://tamaramoh12.github.io/ReadingNotes201/class01.md)
+[Read03](https://tamaramoh12.github.io/ReadingNotes201/Read: 03.md)
