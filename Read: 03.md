@@ -89,11 +89,62 @@ use at least:
 
 The **border-radius property:** which introduces the ability to create rounded corners on any box. The value indicates the size of the radius in pixels.
 
+## Arrays in JS
+
+**Arrays** a special type of variable. It doesn't just store one value; it stores a list of values. 
+
+**How to create an array?**
+
+You create an array and give it
+a name just like you would any
+other variable (using the var
+keyword followed by the name of
+the array). The values are assigned to the array inside a pair of square brackets, and each value is separated by a comma. The values in the array do not need to be the same data type, so you can store a string, a number and a Boolean all in the same array. 
+
+**Values in an array** are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one). 
+
 ## JS Control Flow
 
+**if..else statement**
 
+this statement check a condition, and in both ways if the condition is correct ot wrong there is a statement to execute. 
 
+**syntax:**
 
+if (a > b){
 
+  statement;
+  
+} else{
 
+  statement;
+  
+}
 
+**switch statements**
+
+A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value. 
+
+**Syntax:**
+
+switch (var){
+
+case 'value':
+
+statement;
+
+break;
+
+case 'value2':
+
+statement2;
+
+break;
+
+default:
+
+statement;
+
+break;
+
+}
