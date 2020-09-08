@@ -27,9 +27,9 @@ if we want to open it in a new window we put the value (_blank)
 
 for example: \<a href="http://www.imdb.com" target="_blank"> IMBD \</a>
 
-if we want to link to a specific part of the same page or another page we give the element that we wantto link to an id, after that we write the link statment as we explain above, we just change the href value to "#IDname".
+if we want to link to a specific part of the same page or another page we give the element that we wantto link to an id, after that we write the link statment as we explain above, we just change the href value to "#ID_Name".
 
-for example: <a href="#prologue">Prologue</a>
+for example: \<a href="#prologue">Prologue\</a>
 
 
 
