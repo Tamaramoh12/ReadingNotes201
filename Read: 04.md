@@ -17,7 +17,23 @@ if we want to link with a file outside the folder that we are in, we just put do
 
 such as: \<a href="../contact.html"> Contact us \</a>
 
+if we want to link to an email we use the "mailto" key word.
+
+like: \<a href="mailto:jon@example.org"> Email Jon \</a> 
+
+there are some useful attributes that can make our sites simpler, such as the target attribute which allow us to define where we want to open the link.
+
+if we want to open it in a new window we put the value (_blank)
+
+for example: \<a href="http://www.imdb.com" target="_blank"> IMBD \</a>
+
+if we want to link to a specific part of the same page or another page we give the element that we wantto link to an id, after that we write the link statment as we explain above, we just change the href value to "#IDname".
+
+for example: <a href="#prologue">Prologue</a>
+
+
 
 ## CSS Layout**
+
 
 ## JS Functions
