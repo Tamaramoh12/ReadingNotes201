@@ -33,7 +33,7 @@ for example: \<a href="#prologue">Prologue\</a>
 
 
 
-## CSS Layout**
+## CSS Layout
 
 
 ## JS Functions
