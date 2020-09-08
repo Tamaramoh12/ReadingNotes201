@@ -4,9 +4,9 @@ Now we arrived to 201 code, which is similar to 102 code, for sure we have to re
 
 We will write a summaries of notes almost 15 times, as it explained in the following table:
 
-| Days | 
+
 | ------------- | 
-| Read01.md | 
+| [Read01](https://tamaramoh12.github.io/ReadingNotes201/class01.md) | 
 | Read02.md | 
 | Read03.md | 
 | Read04.md | 
