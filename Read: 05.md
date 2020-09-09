@@ -53,7 +53,7 @@ Example:
 
 3. in the middle of a paragraph The image is placed between the words of the paragraph that it appears in.
 
-Example: [Example](ul.PNG) , [The result](img result.PNG)
+Example: [Example](img code.PNG) , [The result](img result.PNG)
 
 **Three Rules for Creating Images**
 
