@@ -39,10 +39,15 @@ In addition the the src and alt we also have an optional attributes. such as:
 The image place will affect how the code will display.
 
 Example:
-1: before a paragraph The paragraph starts on a new line after the image.
 
-2: inside the start of a paragraph The first row of text aligns with the bottom of the image.
+1. before a paragraph The paragraph starts on a new line after the image.
 
-3: in the middle of a paragraph The image is placed between the words of the paragraph that it appears in.
+2. inside the start of a paragraph The first row of text aligns with the bottom of the image.
+
+3. in the middle of a paragraph The image is placed between the words of the paragraph that it appears in.
+
+Example: [the code](ol.PNG) , [The result](ol.PNG)
+
+
 
 ## CSS Color & Text
