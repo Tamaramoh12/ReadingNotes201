@@ -30,9 +30,19 @@ In addition the the src and alt we also have an optional attributes. such as:
 
 - title: You can also use the title attribute with the <img> element to provide additional information about the image. Most browsers will display the content of this attribute in a tootip when the user hovers over the image.
 
-- width:
+- height: specifies the height of the image in pixels.
 
-- height:
+- width: specifies the width of the image in pixels.
 
+**Where to Place Image in Your Code?**
+
+The image place will affect how the code will display.
+
+Example:
+1: before a paragraph The paragraph starts on a new line after the image.
+
+2: inside the start of a paragraph The first row of text aligns with the bottom of the image.
+
+3: in the middle of a paragraph The image is placed between the words of the paragraph that it appears in.
 
 ## CSS Color & Text
