@@ -1,6 +1,6 @@
 # HTML Links, CSS Layout, JS Functions
 
-### HTML Links
+## HTML Links
 links are important because it enables the very idea of browsing or surfing. It allow you to move from one web page to another.
 
 **how to write the link statement in HTML page?**
@@ -117,13 +117,13 @@ While learning to code, developers likely study several programming languages. S
 
 2. Speaking: using the correct words to communicate an idea.
 
-3.Reading: understanding what written language intends to convey.
+3. Reading: understanding what written language intends to convey.
 
 4. Writing: producing from scratch a meaningful.
 
 Pair programming touches on all four skills.
 
-**The Results of follow pair programming:*
+**The Results of follow pair programming:**
 
 1. Greater efficiency
 
