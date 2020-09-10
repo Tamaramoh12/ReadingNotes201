@@ -197,7 +197,7 @@ font-family: ChunkFiveRegular, Georgia, serif;
 }
 
 font-family: This specifies the name of the font. This name can then be used as a value of the font-family property in the rest of the style sheet (as shown in the rule for
-the <h1> and <h2> elements).
+the \<h1> and \<h2> elements).
  
 src: This specifies the path to the font.
 
