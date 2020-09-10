@@ -226,7 +226,7 @@ lowercase: This causes the text to appear lowercase.
 capitalize: This causes the first letter of
 each word to appear capitalized
 
-Underline & Strike: The text-decoration property allows you to specify the following values:
+6. Underline & Strike: The text-decoration property allows you to specify the following values:
 
 none: This removes any decoration already applied to the text.
 
@@ -238,13 +238,24 @@ line-through: This adds a line through words.
 
 blink: This animates the text to make it flash on and off (however this is generally frowned upon, as it is considered rather annoying).
 
-Leading: we use the line-height property to set the height of an entire line of text, so the difference between the fontsize and the line-height is equivalent to the leading (as shown in the diagram above). Increasing the line-height makes the vertical gap between lines of text larger.
+7. Leading: we use the line-height property to set the height of an entire line of text, so the difference between the fontsize and the line-height is equivalent to the leading (as shown in the diagram above). Increasing the line-height makes the vertical gap between lines of text larger.
 
+8. Letter & Word Spacing: You can control the space between each letter with the letter-spacing property. Also You can also control the gap between words using the word-spacing property. 
 
+9. Alignment: The text-align property allows you to control the alignment of text. The property can take one of four values:
 
+left: This indicates that the text
+should be left-aligned.
 
+right: This indicates that the text should be right-aligned.
 
+center: This allows you to center text. 
 
+justify This indicates that every line in a paragraph, except the last line, should be set to take up the full width of the containing box
+
+10. Vertical Alignment: The vertical-align property is a common source of confusion. It is not intended to allow you to vertically align text in the middle of block level  elements such as \<p> and \<div>, although it does have this effect when used with table cells (the \<td> and \<th> elements).
+
+It is more commonly used with inline elements such as \<img>, \<em>, or \<strong> elements. When used with these elements, it performs a task very similar to the HTML align attribute used on the \<img> element. The values it can take are:
 
 
 
