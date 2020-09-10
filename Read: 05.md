@@ -257,5 +257,41 @@ justify This indicates that every line in a paragraph, except the last line, sho
 
 It is more commonly used with inline elements such as \<img>, \<em>, or \<strong> elements. When used with these elements, it performs a task very similar to the HTML align attribute used on the \<img> element. The values it can take are:
 
+11. Indenting Text: The text-indent property allows you to indent the first line of text within an element. The amount you want the line indented by can be specified in a number of ways but is usually given in pixels or ems.
+
+12. First Letter or Line: You can specify different values for the first letter or first line of text inside an element using :first-letter and :first-line.
+
+Technically these are not properties. They are known as pseudo-elements
+
+**Some from CSS3**
+
+Drop Shadow: The text-shadow property has become commonly used despite lacking support in all browsers. It is used to create a drop shadow, which is a dark version of the word just behind it and slightly offset. It can also be used to create an embossed effect by
+adding a shadow that is slightly lighter than the text.
+
+The value of this property is quite complicated because it can take three lengths and a color for the drop shadow. 
+
+The first length indicates how far to the left or right the shadow should fall.
+
+The second value indicates the distance to the top or bottom that the shadow should fall.
+
+The third value is optional and specifies the amount of blur that should be applied to the drop shadow.
+
+The fourth value is the color of the drop shadow.
+
+**Styling Links**
+
+In CSS, there are two pseudoclasses that allow you to set different styles for links that have and have not yet been visited.
+
+:link: This allows you to set styles for links that have not yet been visited.
+
+:visited: This allows you to set styles for links that have been clicked on. 
+
+In order to respond to users, there are three pseudo-classes that allow you to change the appearance of elements when a user is interacting with them.
+
+:hover :This is applied when a user hovers over an element with a pointing device such as a mouse.This has commonly been used to change the appearance of links and buttons when a user places their cursor over them. It is worth noting that such events do not work on devices that use touch screens (such as the iPad) because the screen is not able to tell when someone is hovering their finger over an element.
+
+:active : This is applied when an element is being activated by a user; for example, when a button is being pressed or a link being clicked. Sometimes this is used to make a button or link feel more like it is being pressed by changing the style or position of the element slightly.
+
+:focus : This is applied when an element has focus. Any element that you can interact with, such as a link you can click on or any form control can have focus.
 
 
