@@ -45,7 +45,14 @@ return this.room - this.booked;
 };    //close the object
 
 
+**How to access an object?** 
 
+we can access the properties or methods using dot notation, In addition we can access properties using square brackets.
+
+Ex:  var hotelNam = hotel.name;
+     var roomsfree.checkAvailability();
+     
+Ex: var hotelName = hotel['name'];
 
 
 
