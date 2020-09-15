@@ -8,11 +8,11 @@ CSS treats each HTML element as if it is in its own box. This box will either be
 
 Block-level elements start on a new line.
 
-Examples include: <h1> <p> <ul> <li>
+Examples include: \<h1> \<p> \<ul> \<li>
 
 Inline elements flow in between surrounding text.
 
-Examples include:<img> <b> <i>
+Examples include:\<img> \<b> \<i>
 
 CSS has the following positioning schemes that allow you to control the layout of a page:
 
