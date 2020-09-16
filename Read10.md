@@ -88,6 +88,25 @@ Each time a script enters a new execution context, there are two phases of activ
 
 ![](Capture1.PNG)
 
+**Scopes**
+
+In the interpreter, each execution context has its own va ri ables object. 
+It holds the variables, functions, and parameters available within it.
+Each execution context can also access its parent's v a ri ables object. 
+
+![](Capture2.PNG)
+
+**Errors**
+If a JavaScript statement generates an error, then it throws an exception.
+At that point, the interpreter stops and looks for exception-handl ing code. 
+
+![](Capture3.PNG)
+
+
+
+
+
+
 
 
 
