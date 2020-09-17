@@ -102,16 +102,31 @@ At that point, the interpreter stops and looks for exception-handl ing code.
 
 ![](Capture3.PNG)
 
+**Error Objects**
 
+Error objects can help you find where your mistakes are and browsers have tools to help you read them. 
 
+![](Capture4.PNG)
 
+Ex:
+![](Capture5.PNG)
 
+Note: These error messages are from the Chrome browser. Other browsers' error messages may vary.
 
+- Syntax Error (Syntax is not correct)
 
+This is caused by incorrect use of the rules of the language. 
 
+Examples:
 
+![](Capture6.PNG)
 
+- Reference Error (Variable deosn't exist)
 
+This is caused by a variable that is not declared or is out of scope. 
 
+Examples:
+
+![](Capture7.PNG)
 
 
