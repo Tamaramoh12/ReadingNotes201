@@ -61,7 +61,41 @@ Example:
 
 4.no-repeat: The image is only shown once
 
+**What if the user want to scroll up and down?**
 
+we use the **background-attachment** property to specify whether a background image should stay in one position or move as the user scrolls up and down the page.
+
+It can have one of two values:
+
+1. fixed: The background image stays in the same position on the page.
+
+Example:
+
+![](fixed.PNG)
+
+2. scroll: The background image moves up and down as the user scrolls up and down the page.
+
+**Background position**
+
+When an image is not being repeated, you can use the background-position property to specify where in the browser window the background image should be placed. 
+
+This property usually has a pair of values. The first represents the horizontal position and the second represents the vertical.
+
+If you only specify one value, the second value will default to center.
+
+Example:
+
+![](img5.PNG)
+
+**Shorthand Background**
+
+1. background-color
+2. background-image
+3. background-repeat
+4. background-attachment
+5. background-position
+
+### Images Rollovers & Spirits
 
 
 
