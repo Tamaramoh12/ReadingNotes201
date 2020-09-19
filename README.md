@@ -27,7 +27,7 @@ We will write a summaries of notes almost 15 times, as it explained in the follo
 
 | [Read10](https://tamaramoh12.github.io/ReadingNotes201/Read10.md) | 
 
-| Read11.md | 
+| [Read11](https://tamaramoh12.github.io/ReadingNotes201/Read11.md) | 
 
 | Read12.md | 
 
