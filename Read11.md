@@ -59,7 +59,7 @@ Example:
 
 3. repeat-y: The image is repeated vertically only.
 
-4.no-repeat: The image is only shown once
+4. no-repeat: The image is only shown once
 
 **What if the user want to scroll up and down?**
 
@@ -90,9 +90,13 @@ Example:
 **Shorthand Background**
 
 1. background-color
+
 2. background-image
+
 3. background-repeat
+
 4. background-attachment
+
 5. background-position
 
 ### Images Rollovers & Spirits
