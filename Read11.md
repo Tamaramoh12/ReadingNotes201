@@ -259,7 +259,45 @@ In every page of your website there are seven key places where keywords (the wor
 
 6. Image Alt Text
 
-![](seo.png)
+![](seo.PNG)
+
+# Domain Names & Hosting
+
+In order to put your site on the web you will need a domain name and web hosting.
+
+**Domain Names**
+
+Your domain name is your web address (e.g. google.com or bbc. co.uk). There are many websites that allow you to register domain names. Usually you will have to pay an annual fee to keep that domain name.
+
+**Web Hosting**
+
+So that other people can see your site, you will need to upload it to a web server. Web servers are special computers that are constantly connected to the Internet. They are specially set up to serve web pages when they are requested.
+
+**Which Hosting Company To Use**
+
+1. Disk space: This refers to the total size of all of the files that make up your site
+(all of the HTML and CSS files, images and scripts). 
+
+2. Bandwidth: This is the amount of data the hosting company will send to your site's visitors. If you imagine 10 people looked at every page on your site, then it would be
+the equivalent to 10 times the amount of disk space you use.
+
+3. Backups: Check whether the hosting company performs backups on your site (and how often). Some only create backups so that they can restore your website in the event of a server breaking. Others allow access to backups (which can be helpful if you accidentally break the site when updating it).
+
+4. Email accounts: Most hosting companies will provide email servers with their web hosting packages. You will want to check the size of mailbox you are allowed and the number of mailboxes you can use.
+
+5. Server-side languages and databases: If you are using a content management system, it will likely use a server-side programming language and a database (such as PHP with a MySQL database, or ASP.Net with a SQL Server database). Be sure to check that your hosting company supports the technologies your software needs to run.
+
+### FTP & Third Party Tools
+
+To transfer your code and images from your computer to your hosting company, you use something known as File Transfer Protocol.
+
+As the name suggests, File Transfer Protocol (or FTP) allows you to transfer files across the Internet from your computer to the web server hosting your site.
+
+There are many FTP programs that offer a simple interface that shows you the files on your computer alongside the files that are on your web server. These allow you to drag and drop files from your computer to the server or vice versa.
+
+
+
+
 
 
 
