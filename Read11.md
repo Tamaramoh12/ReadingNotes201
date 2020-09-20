@@ -101,6 +101,32 @@ Example:
 
 ### Images Rollovers & Spirits
 
+Using CSS, it is possible to create a link or button that changes to a second style when a user moves their mouse over it (known as a rollover) and a third style when they click on it. 
+
+This is achieved by setting a background image for the link or button that has three different styles of the same button (but only allows enough space to show one of them at a time).
+
+When a single image is used for several different parts of an interface, it is known as a sprite.
+
+You can add the logo and other interface elements, as well as buttons to the image.
+
+The advantage of using sprites is that the web browser only needs to request one image rather than many images, which can make the web page load faster.
+
+Example:
+
+![](img6.PNG)
+
+### Some From CSS3 (Gradients)
+
+CSS3 is going to introduce the ability to specify a gradient for the background of a box. The gradient is created using the background-image property and, at the time of writing, different browsers required a different syntax.
+
+Examlple:
+
+![](img7.PNG)
+
+### Contrast of background images
+
+
+
 
 
 
