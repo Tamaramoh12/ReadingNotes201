@@ -221,3 +221,49 @@ Example:
  background-repeat: no-repeat;}
  </style>
  ```
+
+# Practical Information
+
+### Search Engine Optimization (SEO)
+
+Search engine optimization (or SEO) is the practice of trying to help your site appear nearer the top of search engine results when people look for the topics that your website covers.
+
+
+In order to determine who comes first in the search results, search engines do not only look at what appears on your site. They also consider how many sites link to you (and how relevant those links are). For this reason, SEO is often split into two areas:
+**on-page techniques** and **off-page techniques**.
+
+**On-Page Techniques**
+
+are the methods you can use on your web pages to improve their rating in search engines.
+
+The main component of this is looking at keywords that people are likely to enter into a search engine if they wanted to find your site, and then including these in the text and HTML code for your site in order to help the search engines know that your site covers these topics.
+
+**Off-Page Techniques**
+
+Getting other sites to link to you is just as important as on-page techniques. Search engines help determine how to rank your site by looking at the number of other sites that link to yours.
+
+Search engines also look at the ords between the opening \<a> tag and closing \</a> tag
+in the link. If the text in the link contains keywords (rather than just click here or your website address) it may be considered more relevant.
+
+In every page of your website there are seven key places where keywords (the words people might search on to find your site) can appear in order to improve its findability.
+
+1. Page Title
+
+2. URL / Web Address
+
+3. Headings
+
+4. Text
+
+5. Link Text
+
+6. Image Alt Text
+
+![](seo.png)
+
+
+
+
+
+
+
