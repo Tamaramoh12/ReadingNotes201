@@ -229,10 +229,4 @@ As you can see, the data is largely the same, except this time we’ve chosen to
 ```
 
 
-### Installation
-
-You can download the latest version of Chart.js from the ![](https://github.com/chartjs/Chart.js/releases/tag/v2.9.3)
-
-GitHub releases or use a Chart.js CDN. Detailed installation instructions can be found on the installation page.
-
 
